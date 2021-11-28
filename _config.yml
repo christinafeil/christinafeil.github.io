@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Comparative Literature PhD student at SUNY Binghamton"
   location         : "Binghamton, NY"
-  employer         :
+  employer         : "https://www.binghamton.edu/german-russian-studies/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "feilchristina26@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/christina-feil-0b1b65183/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
